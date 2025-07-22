@@ -1,4 +1,4 @@
-# elliotsop.com
+# Elliotsop.com
 
 Website breakdown 
 
