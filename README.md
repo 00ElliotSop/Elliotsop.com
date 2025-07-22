@@ -40,7 +40,7 @@ Open a terminal and run:
 ```bash
 git clone https://github.com/00ElliotSop/Elliotsop.com.git
 unzip Elliotsop.com
-
+```
 ---
 
 
